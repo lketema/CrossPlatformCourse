@@ -1,2 +1,5 @@
 CheckLinksConsole/bin/*
 CheckLinksConsole/obj/*
+
+CheckLinksConsoleTests/bin/*
+CheckLinksConsoleTests/obj/*
